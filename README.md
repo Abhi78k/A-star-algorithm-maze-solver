@@ -37,11 +37,8 @@ The heuristic used here is **Manhattan distance**.
 
 - Python 3.6+
 - pip
+- [pyamaze](https://pypi.org/project/pyamaze/)
 
-## 📚 Dependencies
-
-- [`pyamaze`](https://pypi.org/project/pyamaze/): A Python package for creating and solving mazes visually.
-
-## 📝 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
